@@ -25,8 +25,115 @@ You can see this framework in action - <a href="https://github.com/DevsDaddy/One
 - Download and import <a href="https://github.com/DevsDaddy/UIFramework/releases">latest release from this page</a>;
 - See <a href="#usage">usage examples below</a>;
 
+## How it works?
+
+The **UI Framework** works according to the **View** / **Navigation** / **Layouts** scheme. And separates entities between them. 
+Each **screen or window** is a **View** that is stored in history for navigation. Each View can have its own unlimited number of **Layouts**. 
+**One of the View must be the home View for navigation**.
+
+For more info see <a href="#usage">Usage Examples</a>
+
 ## Usage
 [WIP]
+
+## API Reference
+The following describes the API for working with the basic methods of the UIFramework, as well as any of the View and Layout presented on the basis of them.
+
+**UIFramework Class:**
+<table>
+  <tr>
+    <th>Method</th>
+    <th>Usage</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+**Base View / IBaseView:**
+<table>
+  <tr>
+    <th>Method</th>
+    <th>Usage</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+**Base Layout / IBaseLayout:**
+<table>
+  <tr>
+    <th>Method</th>
+    <th>Usage</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ## Join Community
 - <a href="https://discord.gg/xuNTKRDebx">Discord Community</a>
