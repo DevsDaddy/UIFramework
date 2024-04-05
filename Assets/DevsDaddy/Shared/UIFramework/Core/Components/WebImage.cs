@@ -10,6 +10,7 @@ namespace DevsDaddy.Shared.UIFramework.Core.Components
     [AddComponentMenu("UIFramework/Components/Web Image")]
     [RequireComponent(typeof(Image))]
     [RequireComponent(typeof(RectTransform))]
+    [DisallowMultipleComponent]
     public class WebImage : MonoBehaviour
     {
         [Header("Web Image Parameters")] 
