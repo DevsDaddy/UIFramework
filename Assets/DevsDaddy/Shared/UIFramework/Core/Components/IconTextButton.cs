@@ -10,6 +10,7 @@ namespace DevsDaddy.Shared.UIFramework.Core.Components
     /// </summary>
     [AddComponentMenu("UIFramework/Components/Icon Text Button")]
     [RequireComponent(typeof(Button))]
+    [DisallowMultipleComponent]
     public sealed class IconTextButton : MonoBehaviour
     {
         [Header("Button Data")] 
