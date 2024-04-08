@@ -36,6 +36,7 @@ Each **screen or window** is a **View** that is stored in history for navigation
 **One of the View must be the home View for navigation**.
 
 For more info see <a href="#usage">Usage Examples</a> or see **Demo Scene**.
+Also I recommend to see <a href="https://github.com/DevsDaddy/OneUIKit">One UI Kit</a> based on UI Framework.
 
 ## Usage
 **Views Binding:**
