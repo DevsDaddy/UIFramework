@@ -68,7 +68,7 @@ namespace DevsDaddy.Shared.UIFramework.Core.Components
         /// <summary>
         /// Load Image
         /// </summary>
-        private void LoadImage() {
+        public void LoadImage() {
             if(m_IsLoading) return;
             m_IsLoading = true;
             m_CurrentCoroutineId = "WebImageRequest"+gameObject.GetInstanceID();
