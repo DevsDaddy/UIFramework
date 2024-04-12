@@ -1,0 +1,30 @@
+{
+  "name": "com.devsdaddy.uiframework",
+  "displayName": "Unity UI Framework",
+  "version": "0.9.0",
+  "unity": "2019.3",
+  "description": "Unity UI Framework - A set of tools for interface developers, ready to use in your projects and supporting the MVC/MVP/MVVVM patterns. The basic architecture works based on View and Layouts, and interaction is handled by an event system to make your interface logic independent.",
+  "documentationUrl": "https://github.com/DevsDaddy/UIFramework",
+  "changelogUrl": "https://github.com/DevsDaddy/UIFramework/releases",
+  "licensesUrl": "https://github.com/DevsDaddy/UIFramework/blob/main/LICENSE",
+  "keywords": [
+    "ui",
+    "framework",
+    "mvc",
+    "mvp",
+    "mvvm",
+    "user",
+    "interface",
+    "unity"
+  ],
+  "author": {
+    "name": "DevsDaddy",
+    "email": "blackfixltd@gmail.com",
+    "url": "https://devsdaddy.hashnode.dev/"
+  },
+  "dependencies": {
+      "com.devsdaddy.eventframework": "https://github.com/DevsDaddy/UnityEventFramework.git?path=/DevsDaddy/Shared/EventFramework/",
+      "com.unity.textmeshpro": "2.1.6"
+    }
+  "category": "Unity"
+}
