@@ -28,7 +28,7 @@ The basic architecture works based on **View and Layouts**, and interaction is h
 
 **Or add this URL to UPM:**
 ```
-https://github.com/DevsDaddy/UnityEventFramework.git?path=/Assets/DevsDaddy/Shared/UIFramework/
+https://github.com/DevsDaddy/UIFramework.git?path=/Assets/DevsDaddy/Shared/UIFramework/
 ```
 
 **See Demo Scene to learn how it works (UIFrameworkDemo):**
