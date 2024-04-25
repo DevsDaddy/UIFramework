@@ -23,10 +23,10 @@ The basic architecture works based on **View and Layouts**, and interaction is h
 **Unity UI Framework** is designed for your application and games using Unity UI (UGUI) and support Unity 2019+.
 
 **Installation process:**
-- Download and import <a href="https://github.com/DevsDaddy/UIFramework/releases">latest release from this page</a>;
+- Install package via UPM (https://github.com/DevsDaddy/UIFramework.git?path=/Assets/DevsDaddy/Shared/UIFramework/);
 - See <a href="#usage">usage examples below</a>;
 
-**Or add this URL to UPM:**
+**UPM Installation URL:**
 ```
 https://github.com/DevsDaddy/UIFramework.git?path=/Assets/DevsDaddy/Shared/UIFramework/
 ```
