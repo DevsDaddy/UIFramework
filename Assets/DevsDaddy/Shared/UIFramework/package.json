@@ -25,6 +25,6 @@
   "dependencies": {
       "com.devsdaddy.eventframework": "https://github.com/DevsDaddy/UnityEventFramework.git?path=/DevsDaddy/Shared/EventFramework/",
       "com.unity.textmeshpro": "2.1.6"
-    }
+  },
   "category": "Unity"
 }
